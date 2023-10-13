@@ -32,4 +32,4 @@ async def on_message(message):
     else:
         await.message.channel.send(message.content)
         
-client.run("MTE1NDYwMTYwNzIwODY0MDY1Ng.GaAKxQ.-objiE7wIhGdUYSuRRuSOw9r0LiBZg9p_XDzqs")
+client.run('pakai token mu')
